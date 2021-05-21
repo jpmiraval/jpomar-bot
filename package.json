@@ -1,0 +1,22 @@
+{
+  "name": "jpomar-bot",
+  "version": "1.0.0",
+  "description": "Discord bot for esports servermanaging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpmiraval/jpomar-bot.git"
+  },
+  "author": "SiLvErS",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpmiraval/jpomar-bot/issues"
+  },
+  "homepage": "https://github.com/jpmiraval/jpomar-bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  }
+}
